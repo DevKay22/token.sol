@@ -1,5 +1,5 @@
-# My Token
-This contract is a simpe "My Token" contract that demostrates how to write a basic token contract using the solidity programming language.
+# Token
+This contract is a simple "Token" contract that demostrates how to write a basic token contract using the solidity programming language.
 
 ## Description
 This contract is a simple token contract written in solidity, an object-oriented programming language widely used in the development of smart contracts aimed at targeting the Ethereum Virtual Machine. The contract has three state variables: i. the token name, ii. the abbreviated token name, and iii. the total supply. Also, the contract contains two functions; one for minting the token and the other for burning the token.
