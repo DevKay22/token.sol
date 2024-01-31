@@ -12,7 +12,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 pragma solidity ^0.8.10;
 
-contract MyToken{ //public variables here string public tokenName = "KAYODE"; string public tokenAbbrv = "KAY"; uint public totalSupply = 0;
+contract MyToken{ //public variables here string public tokenName = "ADUNNI"; string public tokenAbbrv = "ADN"; uint public totalSupply = 0;
 
 //mapping variable here
 mapping (address=>uint) public balances;
@@ -40,4 +40,4 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with the contract by first copying and pasting the address you want to use, then click on the mint function below. Paste the address and enter the value of tokens you want to mint. Cick on the "balances" button and paste the address there also. Click on the "balances" button to check the balance you have. To burn some tokens, click on the "burn" function and enter the value of tokens you want to burn which should be less than or equal to the total value of tokens you have.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
